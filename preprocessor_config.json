@@ -1,0 +1,19 @@
+{
+    "sample_rate": 22050,
+    "duration": 3.0,
+    "max_samples": 66150,
+    "n_mfcc": 40,
+    "n_fft": 2048,
+    "hop_length": 512,
+    "time_steps": 130,
+    "classes": [
+        "angry",
+        "calm",
+        "disgust",
+        "fear",
+        "happy",
+        "neutral",
+        "sad",
+        "surprise"
+    ]
+}
